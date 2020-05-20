@@ -6,3 +6,7 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
